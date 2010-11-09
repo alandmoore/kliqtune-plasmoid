@@ -1,0 +1,19 @@
+Version 0.4.1 Mar 28 2010
+ - Tooltips remain while the button is hovered.
+
+Version 0.4 Mar 15 2010
+ - Volume setting saved between sessions
+ - Tooltips display metadata (Artist, album, etc) on active button
+
+Version 0.3 Mar 13 2010
+   **WARNING: Breaks previous configs.  Sorry!**
+ - Added option to use icons
+ - Buttons appear "down" when active
+ - Export your launcher settings to a text file
+
+Version 0.2 Feb 17 2010
+ - Added optional volume slider with tooltip
+ - Fixes to appearance configuration (fixed widths and Vertical layout)
+
+Version 0.1 Feb 6 2010
+ - First Release

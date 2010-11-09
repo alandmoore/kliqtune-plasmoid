@@ -1,0 +1,20 @@
+KliQTune plasmoid
+By Alan D Moore
+
+This plasmoid for KDE 4.3 is based on my TextLaunch application launcher, but instead of launching applications it plays audio streams.  It can also play audio files, compact discs, or any other media source phonon can handle.
+
+I wrote this because I don't have a massive collection of mp3 files, I don't have an iPod to manage, and I just generally don't need 9/10 of what a big audio player like Amarok does.  I listen to about 5-6 audio streams, sometimes while sleeping, and I wanted something that would let me switch streams or turn them off quickly and without a lot of clicking around (since I'm sometimes half asleep when I do it).
+
+You may find novel uses for it, like a sound board or jukebox application.  Feel free to request features, but let's not make this too bloated.
+
+KNOWN ISSUES:
+ - The plugin initially wrought havoc with my audio, until I set my music output from ALSA to PulseAudio.  YMMV, you know how audio can be.
+
+ - KliQTune has inherited some display bugs from TextLaunch.  I'm still sorting out why this kind of stuff happens, but for instance sometimes the text on the buttons gets screwed up after editing the launchers, or a big margin appears above the buttons. (NOTE: I think this is fixed in 0.2)
+
+ - Sometimes streams just stop after a few hours, this may be a network thing for me.
+
+TODO:
+
+ - Optional Transport control (Pause/FF/Rew) for playlists and CD.
+ - Drag + Drop?  I'll have to think about this one.

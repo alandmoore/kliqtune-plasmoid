@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KliQTune
+ServiceTypes=Plasma/Applet
+Comment=An audio stream player widget for quick access to your favorite tunes!
+Type=Service
+Icon=applications-multimedia
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+
+X-KDE-PluginInfo-Author=Alan D Moore
+X-KDE-PluginInfo-Email=me@alandmoore.com
+X-KDE-PluginInfo-Name=kliqtune
+X-KDE-PluginInfo-Version=0.4.1
+X-KDE-PluginInfo-Website=http://www.alandmoore.com
+X-KDE-PluginInfo-Category=Multimedia
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
